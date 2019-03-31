@@ -74,6 +74,10 @@ a:link, a:visited, a:hover, a:active {
   background-position: left center;
 }
 
+.ad {
+  margin-top: 10px;
+}
+
 .ad .image {
   width: 120px;
   height: 120px;
