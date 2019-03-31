@@ -4,3 +4,13 @@
   width: 980px;
   margin: 0 auto;
 }
+
+.main {
+  float: left;
+  width: 780px;
+}
+
+.aside {
+  float: left;
+  width: 180px
+}
