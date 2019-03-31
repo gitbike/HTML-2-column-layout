@@ -53,6 +53,22 @@ a:link, a:visited, a:hover, a:active {
   width: 120px;
 }
 
+/* aside */
+
+.aside .heading {
+  font-size: 1.4rem;
+}
+
+.aside .aside-list {
+  font-size: 1.4rem;
+  list-style: none;
+}
+
+.ad .image {
+  width: 120px;
+  height: 120px;
+}
+
 /* footer */
 
 .footer .copyright {
