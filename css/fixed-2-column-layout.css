@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.wrapper {
+  width: 980px;
+  margin: 0 auto;
+}
+
+.main {
+  float: left;
+  width: 780px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.aside {
+  float: left;
+  width: 180px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
