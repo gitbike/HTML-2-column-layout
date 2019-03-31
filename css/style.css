@@ -64,6 +64,13 @@ a:link, a:visited, a:hover, a:active {
   list-style: none;
 }
 
+.aside .aside-list li {
+  padding-left: 15px;
+  background-image: url(../images/arrow.jpg);
+  background-size: 12px 12px;
+  background-position: left center;
+}
+
 .ad .image {
   width: 120px;
   height: 120px;
