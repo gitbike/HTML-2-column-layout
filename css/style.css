@@ -60,6 +60,9 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .aside .aside-list {
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
   font-size: 1.4rem;
   list-style: none;
 }
